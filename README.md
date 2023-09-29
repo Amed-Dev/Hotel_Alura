@@ -14,7 +14,7 @@
 
 ## 🚧 Proyecto
 
-#### Al clonar o descargar el proyecto base y tener instalado el JCalendar, tendrás esta presentación al ejecutar el proyecto en Eclipse:
+#### Al clonar o descargar el proyecto y , tendrás esta presentación al ejecutar el proyecto en Eclipse:
 
 <p align="center" >
      <img width="700" heigth="700" src="https://user-images.githubusercontent.com/91544872/189419249-06b539da-7cf2-4d40-a711-618a5c872096.png">
